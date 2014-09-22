@@ -1,0 +1,18 @@
+img {
+    opacity: .4;
+}
+
+/* In modern internet browsers the opacity tag is all you need to set opacity.*/
+
+img:hover {
+    opacity: 1;
+}
+
+h1 {
+    color: dimgray;
+    background-color: blanchedalmond;
+}
+
+body {
+    background-color: darkgray;
+}
